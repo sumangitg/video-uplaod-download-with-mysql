@@ -1,0 +1,10 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 50px;
+}
+
+form {
+  width: 300px;
+  margin: 0 auto;
+}
