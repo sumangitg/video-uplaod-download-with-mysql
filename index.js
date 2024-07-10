@@ -71,7 +71,7 @@ app.get('/',(req, res)=>{
 //           res.json({ success: true, message: 'Video uploaded successfully' });
 //       }
 //   });
-// });
+// }); });
 
 // Updated version: Stream the file directly to the database
 app.post('/upload', upload.single('videoFile'), (req, res) => {
