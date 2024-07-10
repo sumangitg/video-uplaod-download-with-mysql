@@ -1,0 +1,1 @@
+Develop a MySQL database project that allows users to upload and store videos, providing seamless access for users to watch uploaded videos. The project handles video metadata, storage, and retrieval, ensuring efficient video management and playback.
